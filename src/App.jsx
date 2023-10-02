@@ -14,7 +14,7 @@ const router = createBrowserRouter([
   {
     element: <AppLayout/>,
     errorElement: <Error/>,
-    basename: "/",
+    basename: "/react-pizza-app/",
 
     children: [
       {
