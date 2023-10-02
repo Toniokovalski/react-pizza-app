@@ -12,7 +12,7 @@ import AppLayout from './ui/AppLayout';
 
 const router = createBrowserRouter([
   {
-    basename: "/react-pizza-app",
+    basename: "/react-pizza-app/",
     element: <AppLayout/>,
     errorElement: <Error/>,
 
