@@ -2,6 +2,8 @@
 
 This SPA application that aims to play with React Router 6+, Redux Toolkit Middleware Thunk and Tailwind.
 
+#### Project is deployed on Github pages 👉 https://toniokovalski.github.io/react-pizza-app/
+
 ## Launch application locally 💻
 
 Before run application you need to install all npm packages by running "npm i".
