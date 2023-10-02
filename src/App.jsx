@@ -12,9 +12,9 @@ import AppLayout from './ui/AppLayout';
 
 const router = createBrowserRouter([
   {
-    basename: "/",
     element: <AppLayout/>,
     errorElement: <Error/>,
+    basename: "/",
 
     children: [
       {
